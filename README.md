@@ -1,22 +1,40 @@
 Flight Booking System
 A console-based Flight Ticket Booking System developed using Java, JDBC, and MySQL.
+
 Features
+
 Book Flight Tickets
+
 Cancel Tickets
+
 Display Booked Passengers
+
 Check Seat Availability
+
 Admin Login
+
 Add New Flights
+
 View Available Flights
+
 Technologies Used
+
 Java
+
 JDBC
+
 MySQL
+
 IntelliJ IDEA
+
 Database Tables
+
 flights
+
 passengers
+
 bookings
+
 Project Structure
 Flight Booking System
 │
@@ -28,6 +46,7 @@ Flight Booking System
 │
 └── lib
     └── mysql-connector-j-9.4.0.jar
+    
 How to Run
 1.Create the MySQL database.
 2.Import the required tables.
